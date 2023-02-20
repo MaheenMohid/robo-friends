@@ -1,5 +1,4 @@
-
-body{
+body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -13,6 +12,6 @@ code {
     monospace;
 }
 #card{
-  width: 18rem;
-  height:100vh;
+width: 18rem;
+/* height:100vh; */
 }
