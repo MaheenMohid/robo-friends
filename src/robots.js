@@ -1,74 +1,74 @@
 export const robots = [
     {
-        id: 1,
+        id: 156,
         name: 'Umar Ahmed',
         username: 'Ninu',
         email: 'Ninu@april.biz'
     },
     {
-        id: 2,
-        name: 'Santa Clause',
-        username: 'Santa',
-        email: 'santaclause@april.biz'
+        id: 2465,
+        name: 'Megan Spencer',
+        username: 'Spencer',
+        email: 'meganspencer@april.biz'
     },
     {
-        id: 3,
-        name: 'Onion pyaz',
-        username: 'pyaz',
-        email: 'pyaz@april.biz'
+        id: 345,
+        name: 'Olivia Rodrigo',
+        username: 'Olivia',
+        email: 'Olivia@april.biz'
     },
     {
-        id: 4,
-        name: 'watermelon',
+        id: 45454,
+        name: 'Henry Brown',
         username: 'waterme',
-        email: 'aayyyyye@april.biz'
+        email: 'henrybrown@april.biz'
     },
     {
-        id: 5,
-        name: 'Bob tinjin',
-        username: 'tin',
-        email: 'tintin@april.biz'
+        id: 58665,
+        name: 'Bob west',
+        username: 'bob',
+        email: 'bobwest@april.biz'
     },
     {
-        id: 6,
+        id: 65665,
         name: 'Dexter doc',
         username: 'dex',
         email: 'laboraty@april.biz'
     },
     {
-        id: 7,
-        name: 'teddy Gram',
-        username: 'teby',
+        id: 564457,
+        name: 'Lorrianne Warren',
+        username: 'waren',
         email: 'sitybh@april.biz'
     },
     {
-        id: 8,
-        name: 'Alicia bell',
+        id: 8556,
+        name: 'Alice Brad',
         username: 'alice',
         email: 'cere@april.biz'
     },
     {
-        id: 9,
+        id: 87456129,
         name: 'Alexa bell',
         username: 'alex',
         email: 'alex@april.biz'
     },
     {
-        id: 10,
-        name: 'ben ten',
+        id: 5410,
+        name: 'benjumin tenison',
         username: 'teneson',
         email: 'tenben@april.biz'
     },
     {
-        id: 11,
-        name: 'Oswald blue',
+        id: 1211,
+        name: 'Oswald Youstis',
         username: 'Oswald342',
-        email: 'oswaldblue@april.biz'
+        email: 'oswalde@april.biz'
     },
     {
-        id: 12,
-        name: 'Panochio liar',
-        username: 'Liar',
-        email: 'Liar@april.biz'
+        id: 12456,
+        name: 'Michelle Karen',
+        username: 'Karen',
+        email: 'Karen@april.biz'
     },
 ]
